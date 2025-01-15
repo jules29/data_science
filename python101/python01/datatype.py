@@ -31,3 +31,21 @@ print(("Jules", 23))
 user = (users ["Name"],users["age"]) #Tuple
 print(user)
 print(user[0]) #Indexing
+
+
+#Boolean
+
+""" Author : Jules Toure 
+    Date: 2025.01.11
+    Description: This is a multiline comment
+    Licence: MIT
+    
+"""
+
+is_adult = False 
+
+if users["age"] >= 18:
+    is_adult = True
+    
+    
+    
